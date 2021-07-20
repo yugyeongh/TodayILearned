@@ -6,3 +6,4 @@ Algorithms in Everyday Life✨
 > 2. 실버5 [10610번 30](https://www.acmicpc.net/problem/10610/)
 #### 📌 2021년 7월 20일 화요일 ####
 > 1. 실버3 [1448번 삼각형만들기](https://www.acmicpc.net/problem/1448)
+> 2. 골드3 [2437번 저울](https://www.acmicpc.net/problem/2437)
