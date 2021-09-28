@@ -14,14 +14,17 @@ void divided(int x,int y,int num){
     bool flag=true;
     int temp = graph[x][y];
     
+    // 현재 위치와 graph[i][j]의 값이 다르면 반복문 나오기
     for (int i=x;i<x+num;i++){
         for (int j=y;j<y+num;j++){
             if (temp!=graph[i][j]) {
                 flag=false;
+                break;
             }
         }
     }
     
+    // 위치에 맞춰 종이 자르기
     if (!flag) {
         for (int i=x;i<x+num;i+=num/3){
             for (int j=y;j<y+num;j+=num/3){
