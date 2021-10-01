@@ -13,3 +13,5 @@ Algorithms in Everyday Life✨
 > 1. 골드4 [3584번 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) (트리,LCA)
 > 2. 실버2 [1058번 친구](https://www.acmicpc.net/problem/1058) (다익스트라,플로이드 와샬)
 > 3. 골드4 [10830번 행렬 제곱](https://www.acmicpc.net/problem/10830) (수학,재귀함수)
+#### 📌 2021년 10월 1일 금요일 ####
+> 1. 실버2 [1965번 상자넣기](https://www.acmicpc.net/problem/1965) (DP, LIS-최장 증가 부분 수열)
