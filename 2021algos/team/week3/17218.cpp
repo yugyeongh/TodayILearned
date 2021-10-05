@@ -50,4 +50,3 @@ int main() {
     lcs(str1.length(),str2.length());
     return 0;
 }
-
