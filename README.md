@@ -1,4 +1,4 @@
-# TodayILearn
+# TodayILearned
 Algorithms in Everyday Life✨
 
 #### 📌 2022년 1월 9일 일요일 ####
