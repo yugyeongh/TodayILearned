@@ -12,3 +12,4 @@ Algorithms in Everyday Life✨
 #### 📌 2022년 1월 14일 금요일 ####
 > 1. 실버3 [15889번 호 안에 수류탄이야!!](https://www.acmicpc.net/problem/15889)
 > 2. 실버4 [1026번 보물](https://www.acmicpc.net/problem/1026)
+> 3. 실버3 [1448번 삼각형 만들기](https://www.acmicpc.net/problem/1448)
