@@ -10,4 +10,4 @@ Algorithms in Everyday Life✨
 > 1. 실버4 [11656번 접미사 배열](https://www.acmicpc.net/problem/11656)
 > 2. 실버2 [18870번 좌표 압축](https://www.acmicpc.net/problem/18870)
 #### 📌 2022년 1월 14일 금요일 ####
-> 1. 실버4 [15889번 호 안에 수류탄이야!!](https://www.acmicpc.net/problem/15889)
+> 1. 실버3 [15889번 호 안에 수류탄이야!!](https://www.acmicpc.net/problem/15889)
