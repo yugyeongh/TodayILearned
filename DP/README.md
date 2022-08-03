@@ -1,4 +1,4 @@
-**📍Dynamic Programming이란**
+##📍Dynamic Programming이란
 
 하나의 복잡한 문제를 여러 개의 작은 문제로 나누어 풀어서 저장해 두었다가 큰 문제를 해결하는 알고리즘
 
